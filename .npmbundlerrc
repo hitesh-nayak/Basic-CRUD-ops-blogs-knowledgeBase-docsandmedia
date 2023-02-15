@@ -1,0 +1,12 @@
+{
+	"create-jar": {
+		"output-dir": "dist",
+		"features": {
+			"js-extender": true,
+			"web-context": "/Basic-CRUD-ops-blogs-knowledgeBase-docsandmedia",
+			"localization": "features/localization/Language",
+			"configuration": "features/configuration.json"
+		}
+	},
+	"dump-report": true
+}

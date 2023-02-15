@@ -1,0 +1,55 @@
+.tag {
+	font-weight: bold; margin-right: 1em;
+}
+
+.value {
+	font-family: monospace;
+}
+
+.pre {
+	font-family: monospace; white-space: pre;
+}
+
+.docshitesh {
+	display: inline-block;
+	width: 30rem;
+	height: 30rem;
+	border: 3px solid #0b5fff;
+	border-radius: 4px;
+	margin-bottom: 5rem;
+	margin-right: 5rem;
+
+}
+
+
+
+.docimghitesh {
+	display: flex;
+	height: 20rem;
+	width: 20rem;
+	align-self: center;
+	margin-left: 5rem;
+}
+
+.articles {
+	display: inline-block;
+	width: 30rem;
+	height: 7rem;
+	border: 3px solid #0b5fff;
+	border-radius: 4px;
+	margin-bottom: 5rem;
+	margin-right: 5rem;
+
+}
+
+.articleHead {
+	display: block;
+	width: 30rem;
+	height: 7rem;
+	margin-bottom: 5px;
+
+	font-family: Courier, Lucidatypewriter, monospace;
+	font: normal 2rem/2rem Courier;
+
+	overflow: auto;
+}
